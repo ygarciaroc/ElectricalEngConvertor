@@ -1,7 +1,4 @@
 
 #include<stdio.h>
 
-//hello world
-
-//here we will begin to code our project
-//already stablished
+//hello guys, try to modify this and let me know if it works
