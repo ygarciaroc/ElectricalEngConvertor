@@ -16,7 +16,7 @@ double a,b;
   scanf("%lf, &a);
   printf(\nEnter the second number");
   scanf("%lf, &a);
-  switch(choice)
+  switch(choice) //Walter
   {
     case 1:
       printf("%.2lf + %.2lf = %.2lf", a, b, a+b);
